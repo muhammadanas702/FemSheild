@@ -1,0 +1,1 @@
+FemShield is a cross-platform application designed to empower women by providing real-time safety tools, AI-based threat detection, live location tracking, and access to health, education, and career resources in one secure platform.
